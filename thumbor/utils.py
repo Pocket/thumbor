@@ -23,7 +23,8 @@ CONTENT_TYPE = {
     '.webm': 'video/webm',
     '.svg': 'image/svg+xml',
     '.tif': 'image/tiff',
-    '.tiff': 'image/tiff'
+    '.tiff': 'image/tiff',
+    '.ico': 'image/png'
 }
 
 EXTENSION = {
@@ -34,7 +35,8 @@ EXTENSION = {
     'video/mp4': '.mp4',
     'video/webm': '.webm',
     'image/svg+xml': '.svg',
-    'image/tiff': '.tif'
+    'image/tiff': '.tif',
+    'image/x-icon': '.png'
 }
 
 
